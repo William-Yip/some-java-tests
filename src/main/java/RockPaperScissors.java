@@ -3,7 +3,7 @@ import java.util.HashMap;
 import java.util.Random;
 import java.util.Scanner;
 
-public class PaperRockScissor {
+public class RockPaperScissors {
 
     final static String PAPER = "paper";
     final static String ROCK = "rock";
